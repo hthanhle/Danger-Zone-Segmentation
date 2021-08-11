@@ -1,6 +1,6 @@
 # Danger Zone Segmentation in Assistive Navigation for Visual-impaired People.
 ## Descriptions
-This project develops a danger-zone segmentation method for assistive navigation. The segmentation model is SegNet [[1]](https://ieeexplore.ieee.org/document/7803544). We create a new dataset for quantitative evaluation in danger-zone segmentation research.
+In this project, we address the semantic segmentation of (immediate) danger zones for assistive navigation. The segmentation model is SegNet [[1]](https://ieeexplore.ieee.org/document/7803544). We create a new dataset for quantitative evaluation in danger-zone segmentation research.
 
 Watch the video demos:
 
